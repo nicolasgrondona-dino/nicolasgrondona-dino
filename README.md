@@ -5,7 +5,7 @@
 I'm a Software Engineer with a backend orientation, specializing in **Golang** and **microservices architecture**. 
 
 - 🔭 Currently working at **Dinocloud**
-- 🌱 Currently learning **AWS**
+- 🌱 Currently learning **AWS** and **AI technologies**
 - 💻 Most experienced with Go and building scalable microservices
 - 🚀 Passionate about backend development and cloud technologies
 
