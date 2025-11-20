@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Nico 👋
 
-<!--
-**nicolasgrondona-dino/nicolasgrondona-dino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a Software Engineer with a backend orientation, specializing in **Golang** and **microservices architecture**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working at **Dinocloud**
+- 🌱 Currently learning **AWS**
+- 💻 Most experienced with Go and building scalable microservices
+- 🚀 Passionate about backend development and cloud technologies
+
+## GitHub Stats
+
+![Nico's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasgrondona-dino&show_icons=true&theme=nord)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasgrondona-dino&layout=compact&theme=nord)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nicolasgrondona-dino&theme=nord)
